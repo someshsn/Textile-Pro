@@ -68,13 +68,20 @@ This Power BI dashboard project is designed for a textile manufacturing and dist
 <b>🖼️ Dashboard Previews</b>
 
 <b>🏠 Home Dashboard</b>  
-![Home Dashboard](https://github.com/yourusername/Textile-Dashboard/blob/main/screenshots/home_page.png)
+![Home Dashboard](https://github.com/someshsn/Textile-Pro/blob/main/Home.png
+)
 
-<b>📦 Production Dashboard</b>  
-![Production Metrics](https://github.com/yourusername/Textile-Dashboard/blob/main/screenshots/production_dashboard.png)
+<b>📦 Sales Dashboard</b>  
+![Dashboards](https://github.com/someshsn/Textile-Pro/blob/main/Dashboard.png
+)
 
-<b>📊 Sales & Inventory Dashboard</b>  
-![Sales and Inventory](https://github.com/yourusername/Textile-Dashboard/blob/main/screenshots/sales_inventory_dashboard.png)
+<b>📊 Reports</b>  
+![Report Dashboard](https://github.com/someshsn/Textile-Pro/blob/main/Reports.png
+)
+
+<b>📊 Report Graph</b>  
+![Graph Dashboard](https://github.com/someshsn/Textile-Pro/blob/main/Graphs.png
+)
 
 ---
 
